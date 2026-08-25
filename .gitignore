@@ -1,0 +1,22 @@
+# Secret keys
+.env
+
+# Dependencies
+node_modules/
+
+# React build output
+dist/
+build/
+
+# Mac system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Editor settings
+.vscode/
+.idea/
+
+# Auto-generated lock file
+package-lock.json
